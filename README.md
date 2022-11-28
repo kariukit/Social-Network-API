@@ -1,6 +1,6 @@
 # Social-Network-API
 
-The challenge in this project was to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. It was required that we use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js Links to an external site.and Mongoose Links to an external site.packages, one may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
+The challenge in this project was to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. It was required that we use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js Links to an external site.and Mongoose Links to an external site.packages, one may have optionally used a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 
 # A) The user requirements for this project were:
 
@@ -33,7 +33,7 @@ WHEN I test API POST and DELETE routes in Insomnia
 
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-# C) Mock-UP Animations showing the API routes for the Application being tested in Insomnia
+# C) Mock-UP Animations showing the expected behavior of the API routes for the Application being tested in Insomnia
 
    # 1. for GET routes for all users and all thoughts:
    
@@ -43,7 +43,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
    
    ![18-nosql-homework-demo-03](https://user-images.githubusercontent.com/108309963/202740763-e7a8292e-3eec-4c46-af8b-ae52bab3733d.gif)
     
-# D) Walk-through video demonstrating the functionality of the App:
+# D) Walk-through video demonstrating the actual functionality of the App:
+
+https://watch.screencastify.com/v/rytlQ4jNid3DoHlulGPX
 
    
     
